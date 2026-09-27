@@ -6,4 +6,5 @@ temp=lst[0]
 for i in lst:
     if i>temp:
         temp=i
+        
 print(temp)
