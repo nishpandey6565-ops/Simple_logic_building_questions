@@ -5,6 +5,5 @@ lst=[10,20,33,44,56]
 temp=lst[0]
 for i in lst:
     if i>temp:
-        temp=i
-        
+        temp=i   
 print(temp)
